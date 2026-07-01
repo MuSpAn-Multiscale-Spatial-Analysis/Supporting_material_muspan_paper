@@ -1,8 +1,8 @@
 # Supporting material for MuSpAn: A Toolbox for Multiscale Spatial Analysis.
 
-This reponsitory can be downloaded locally for the reproduction of figures 2-6 in the paper: MuSpAn: A Toolbox for Multiscale Spatial Analysis. To download and install the Python Toolbox MuSpAn, see www.muspan.co.uk. All analysis in this repositiory have been conducted using MuSpAn V1.2.0.
+This repository can be downloaded locally for the reproduction of Figures 2-6 in the paper: MuSpAn: A Toolbox for Multiscale Spatial Analysis. To download and install the Python Toolbox MuSpAn, see https://www.muspan.co.uk. All analyses in this repositiory have been conducted using MuSpAn V1.2.0.
 
-These notebooks can also be found in our paper examples pages at www.docs.muspan.co.uk.
+These notebooks can also be found in our "paper examples" pages, at https://docs.muspan.co.uk.
 
 ---
 
